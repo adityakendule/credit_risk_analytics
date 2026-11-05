@@ -82,7 +82,7 @@ credit-risk-analysis/
 │   └── credit_risk_dashboard.pbix
 ├── images/
 │   └── dashboard.png
-└── docs/                      # data dictionary, DAX measures
+
 ```
 
 ## How to Run
