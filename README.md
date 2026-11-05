@@ -81,7 +81,7 @@ credit-risk-analysis/
 ├── powerbi/
 │   └── credit_risk_dashboard.pbix
 ├── images/
-│   └── dashboard.png
+    └── dashboard.png
 
 ```
 
