@@ -2,7 +2,8 @@
 
 Descriptive analysis of 28,638 loan records to identify which borrower and loan characteristics are associated with default, using MySQL for profiling and Power BI for an interactive dashboard.
 
-<img width="1445" height="809" alt="image" src="https://github.com/user-attachments/assets/e6714591-4b60-4c4c-adcf-8c0ec6a53871" />
+<img width="1444" height="811" alt="Screenshot 2026-11-06 131311" src="https://github.com/user-attachments/assets/6c41ddee-e868-4cf3-a672-b8ccdb729d21" />
+
 
 
 ## Business Problem
